@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-a0ns!r@$7j(q979tvui=&h#w+g8!e=gplqf7ll*a!r##jxg@&m
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['project-apirest.azurewebsites.net']
 
 
 # Application definition
