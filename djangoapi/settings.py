@@ -28,6 +28,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['project-apirest.azurewebsites.net']
 
+CSRF_TRUSTED_ORIGINS=['https://project-apirest.azurewebsites.net']
+
 
 # Application definition
 
